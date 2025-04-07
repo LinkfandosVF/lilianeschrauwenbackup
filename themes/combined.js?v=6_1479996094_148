@@ -133,7 +133,7 @@ modules.member.orderUpdate = function()
 modules.member.orderSubmit = function()
 {
   $('#order_form_task').val('create');
-  $('#order_form').attr('action', '//www.lilianeschrauwen.be/members/do/subscription/');
+  $('#order_form').attr('action', '//www.lilianeschrauwen.vercel.app/members/do/subscription/');
   $('#order_form').submit();
 };
 modules.member.onPaymeanChange = function()
@@ -779,7 +779,7 @@ cookieLaw.init = function()
    data.lang = $('html').attr('lang');
   }
   $.ajax({
-   url : '//www.lilianeschrauwen.be/themes/cookielaw',
+   url : '//www.lilianeschrauwen.vercel.app/themes/cookielaw',
  data : data,
  dataType : 'json',
  type : 'POST',
