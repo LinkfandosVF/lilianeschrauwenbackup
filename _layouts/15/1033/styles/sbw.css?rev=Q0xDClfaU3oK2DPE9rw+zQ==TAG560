@@ -1,0 +1,46 @@
+/* _lcid="1033" _version="16.0.7206"
+_LocalBinding */
+.sbw-themes-actions{
+float:right;
+}
+.sbw-themes-remove>span{
+display:inline-block;
+position:absolute;
+width:24px;
+height:24px;
+}
+.sbw-themes-remove>a{
+padding-right:.3em;
+}
+.ms-dlgContent,.ms-dlgContent input[type=password],.ms-dlgContent input[type=text],.ms-dlgContent input[type=file],.ms-dlgContent textarea,.ms-dlgContent .ms-inputBox,.ms-dialog>body{
+background-color:#fff;
+}
+.ms-dlgContent div,.ms-dlgContent p,.ms-dlgContent input[type=password],.ms-dlgContent input[type=text],.ms-dlgContent input[type=file],.ms-dlgContent textarea,.ms-dlgContent .ms-inputBox{
+color:#000;
+}
+.ms-dlg-heading{
+color:#444;
+}
+#site_follow_button,#fullscreenmode,#ctl00_PageStateActionButton{
+display:none !important;
+}
+#pageContentTitle{
+display:none;
+}
+.ms-siteicon-a{
+width:auto;
+height:auto;
+max-width:180px;
+max-height:64px;
+}
+.ms-pub-logon{
+display:none;
+}
+.contentwrapper>.ms-fullWidth{
+width:auto;
+max-width:100%;
+}
+.ms-blog-postList
+{
+word-wrap:break-word;
+}

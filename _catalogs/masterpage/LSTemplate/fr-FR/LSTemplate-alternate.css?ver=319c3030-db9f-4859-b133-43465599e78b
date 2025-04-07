@@ -1,0 +1,15 @@
+/*Modifiez ce fichier pour améliorer la conception ou la mise en page actuelle.*/
+
+
+
+.dynamic{
+min-width:150px;
+}
+
+ul{
+margin-top:-1px;
+}
+
+li{
+margin-bottom:5px
+}
